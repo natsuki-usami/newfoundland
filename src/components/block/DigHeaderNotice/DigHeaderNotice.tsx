@@ -1,6 +1,6 @@
 import r2wc from "@r2wc/react-to-web-component"
 
-function DigHeaderNotice(){
+export default function DigHeaderNotice(){
   return (
     <div>
       <h1>重要</h1>
